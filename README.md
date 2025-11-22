@@ -1,16 +1,18 @@
-# uts
+# UTS PEMROGRAMAN MOBILE 2
 
-A new Flutter project.
+Nama saya Aldi Rizkiansyah dengan NIM 23552011130 kelas TIF 23 KA
 
-## Getting Started
+saya membuat aplikasi ini di Android Studio karena saya lebih nyaman di software ini
+Ini adalah tampilan awal dari app biodata, dan saya run app ini di android saya
 
-This project is a starting point for a Flutter application.
+<img width="100" height="600" alt="image" src="https://github.com/user-attachments/assets/ea99ee83-b3b2-4dc3-b0d5-b56b36ebc87b" />
 
-A few resources to get you started if this is your first Flutter project:
+<img width="100" height="600" alt="image" src="https://github.com/user-attachments/assets/5db9245b-d080-458c-b97b-50ecc4ab829b" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="100" height="600" alt="image" src="https://github.com/user-attachments/assets/48a65d80-08b0-4869-a9a8-73116fbcc3fc" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="100" height="600" alt="image" src="https://github.com/user-attachments/assets/4de36fdb-dab0-4c18-9071-bfa6cc54796c" />
+
+
+
+
